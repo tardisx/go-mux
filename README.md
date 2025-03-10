@@ -7,8 +7,12 @@ the same thing - extracing a user id from the path and making the user struct
 (instantiated from some sort of database, faked in common/db/db.go for this
 example) available to the route handler.
 
+If you clone this repo, you can try each variant out:
+
     go run go-mux/pathvalues/1-basic
 
     go run go-mux/pathvalues/2-slightly-less-basic
 
     go run go-mux/pathvalues/3-middleware
+
+    
