@@ -1,3 +1,7 @@
+# ARCHIVED - 2025-05-23
+
+Due to GitHub's AI enshittification, this project has been moved to https://code.ppl.town/justin/go-mux
+
 ## path values
 
 The three examples to go with the blog post at https://hawkins.id.au/posts/go-mux/path-values
